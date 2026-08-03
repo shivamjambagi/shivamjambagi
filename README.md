@@ -27,7 +27,7 @@
     alt="Currently building Clario"
   />
   <img
-    src="https://img.shields.io/badge/CURRENT_STAGE-YEAR_12-101820?style=flat-square&logo=bookstack&logoColor=D6B66B"
+    src="https://img.shields.io/badge/CURRENT_STAGE-YEAR_13-101820?style=flat-square&logo=bookstack&logoColor=D6B66B"
     alt="Year 13 Computer Science student"
   />
 </p>
