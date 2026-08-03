@@ -28,7 +28,7 @@
   />
   <img
     src="https://img.shields.io/badge/CURRENT_STAGE-YEAR_12-101820?style=flat-square&logo=bookstack&logoColor=D6B66B"
-    alt="Year 12 Computer Science student"
+    alt="Year 13 Computer Science student"
   />
 </p>
 
@@ -67,7 +67,7 @@ Problem solving &nbsp;•&nbsp; Product design &nbsp;•&nbsp; Development &nbsp
 <h3>Hello, I am Shivam.</h3>
 
 <p>
-I am a <strong>Year 12 Computer Science student based in Manchester, UK</strong>.
+I am a <strong>Year 13 Computer Science student based in Manchester, UK</strong>.
 </p>
 
 <p>
