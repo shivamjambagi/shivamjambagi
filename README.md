@@ -44,7 +44,7 @@ Every project begins with a problem and ends with evidence: requirements, engine
 
 <br>
 
-<a href="https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site">
+<a href="https://shivam-jambagi-portfolio.netlify.app">
   <img
     src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-C29A55?style=for-the-badge&logo=googlechrome&logoColor=05080C"
     alt="View Shivam's portfolio"
@@ -173,7 +173,7 @@ The application is designed to organise attendance, behaviour and attainment dat
 **Period:** 2026–2027  
 **Status:** In active development
 
-[View the full Clario case study →](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/clario)
+[View the full Clario case study →](https://shivam-jambagi-portfolio.netlify.app/projects/clario)
 
 </details>
 
@@ -212,7 +212,7 @@ It brings employer research, application stages, deadlines, notes, document deta
 
 [Live application](https://apprentiq.netlify.app/) ·
 [GitHub repository](https://github.com/shivamjambagi/Apprentiq) ·
-[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/apprentiq)
+[Full case study](https://shivam-jambagi-portfolio.netlify.app/projects/apprentiq)
 
 </details>
 
@@ -252,7 +252,7 @@ AI supported areas such as scaffolding, refactoring and debugging. Product direc
 
 [Live application](https://threatscopee.netlify.app/) ·
 [GitHub repository](https://github.com/shivamjambagi/ThreatScope) ·
-[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/threatscope)
+[Full case study](https://shivam-jambagi-portfolio.netlify.app/projects/threatscope)
 
 </details>
 
@@ -289,7 +289,7 @@ The project translates client requirements into a restrained black-and-gold visu
 **Status:** Live client project
 
 [Live website](https://worldcut.netlify.app/) ·
-[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/world-cut)
+[Full case study](https://shivam-jambagi-portfolio.netlify.app/projects/world-cut)
 
 </details>
 
@@ -327,7 +327,7 @@ It combines a long-form landing experience, meal discovery, filtering, subscript
 
 [Live application](https://nourishnest.netlify.app/) ·
 [GitHub repository](https://github.com/shivamjambagi/nourishnest-webapp) ·
-[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/nourishnest)
+[Full case study](https://shivam-jambagi-portfolio.netlify.app/projects/nourishnest)
 
 </details>
 
@@ -602,7 +602,7 @@ Explore detailed case studies, engineering decisions, architecture, testing, pro
 
 <br>
 
-<a href="https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site">
+<a href="https://shivam-jambagi-portfolio.netlify.app">
   <img
     src="https://img.shields.io/badge/EXPLORE_THE_FULL_PORTFOLIO-C29A55?style=for-the-badge&logo=googlechrome&logoColor=05080C"
     alt="Explore Shivam Jambagi's portfolio"
@@ -630,7 +630,7 @@ Explore detailed case studies, engineering decisions, architecture, testing, pro
     alt="Shivam on GitHub"
   />
 </a>
-<a href="https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/Shivam-Jambagi-CV.docx">
+<a href="https://shivam-jambagi-portfolio.netlify.app/Shivam-Jambagi-CV.docx">
   <img
     src="https://img.shields.io/badge/DOWNLOAD_CV-101820?style=flat-square&logo=microsoftword&logoColor=D6B66B"
     alt="Download Shivam's CV"
