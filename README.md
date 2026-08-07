@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- ====================================================== -->
-<!--                        HEADER                          -->
-<!-- ====================================================== -->
-
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:05080C,42:0B1F24,75:0F4C4C,100:C29A55&height=225&section=header&text=Shivam%20Jambagi&fontSize=52&fontColor=FFFFFF&fontAlignY=37&desc=Computer%20Science%20Student%20%C2%B7%20Software%20Developer%20%C2%B7%20Product%20Builder&descSize=17&descColor=E2E8E8&descAlignY=59&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:05080C,40:0B1F24,72:0F4C4C,100:C29A55&height=230&section=header&text=Shivam%20Jambagi&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Computer%20Science%20Student&descSize=17&descColor=E2E8E8&descAlignY=58&animation=fadeIn"
   alt="Shivam Jambagi profile banner"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1100&color=D6B66B&center=true&vCenter=true&repeat=true&width=900&height=42&lines=Building+practical+software+with+clear+purpose;Turning+ideas+into+structured+digital+products;Learning+through+design+and+development;Improving+through+evidence%2C+not+assumptions"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=D6B66B&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Building+software+across+web%2C+Android+and+cybersecurity;Turning+useful+problems+into+working+products;Designing%2C+building%2C+testing+and+documenting;Using+AI+to+accelerate+work%2C+not+replace+judgement"
   alt="Animated introduction"
 />
 
@@ -19,7 +15,11 @@
 
 <p>
   <img
-    src="https://img.shields.io/badge/LOCATION-MANCHESTER,_UK-101820?style=flat-square&logo=googlemaps&logoColor=D6B66B"
+    src="https://komarev.com/ghpvc/?username=shivamjambagi&label=PROFILE+VIEWS&color=0F4C4C&style=flat-square"
+    alt="Profile views"
+  />
+  <img
+    src="https://img.shields.io/badge/LOCATION-MANCHESTER%2C_UK-101820?style=flat-square&logo=googlemaps&logoColor=D6B66B"
     alt="Manchester, United Kingdom"
   />
   <img
@@ -27,26 +27,39 @@
     alt="Currently building Clario"
   />
   <img
-    src="https://img.shields.io/badge/CURRENT_STAGE-YEAR_13-101820?style=flat-square&logo=bookstack&logoColor=D6B66B"
-    alt="Year 13 Computer Science student"
+    src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-101820?style=flat-square&logo=githubsponsors&logoColor=D6B66B"
+    alt="Open to opportunities"
   />
+</p>
+
+### Developer · Problem solver · Product builder
+
+<p>
+I build practical software across <strong>web development, Android applications, data-driven systems and defensive cybersecurity</strong>.
+</p>
+
+<p>
+Every project begins with a problem and ends with evidence: requirements, engineering decisions, implementation, testing, deployment and reflection.
 </p>
 
 <br>
 
-### I build projects to understand the complete process - not only the final screen.
-
-<sub>
-Problem solving &nbsp;•&nbsp; Product design &nbsp;•&nbsp; Development &nbsp;•&nbsp; Documentation &nbsp;•&nbsp; Iteration
-</sub>
-
-<br>
-<br>
-
+<a href="https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site">
+  <img
+    src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-C29A55?style=for-the-badge&logo=googlechrome&logoColor=05080C"
+    alt="View Shivam's portfolio"
+  />
+</a>
 <a href="https://github.com/shivamjambagi?tab=repositories">
   <img
-    src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-12383A?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="Explore my GitHub projects"
+    src="https://img.shields.io/badge/EXPLORE_MY_CODE-12383A?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="Explore Shivam's repositories"
+  />
+</a>
+<a href="https://www.linkedin.com/in/shivamvjambagi">
+  <img
+    src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+    alt="Connect with Shivam on LinkedIn"
   />
 </a>
 
@@ -54,474 +67,479 @@ Problem solving &nbsp;•&nbsp; Product design &nbsp;•&nbsp; Development &nbsp
 
 ---
 
-<!-- ====================================================== -->
-<!--                         ABOUT                          -->
-<!-- ====================================================== -->
-
 ## About Me
 
 <table width="100%">
   <tr>
     <td width="62%" valign="top">
 
-<h3>Hello, I am Shivam.</h3>
+### Hello, I am Shivam.
 
-<p>
-I am a <strong>Year 13 Computer Science student based in Manchester, UK</strong>.
-</p>
+I am a **Year 13 Computer Science student based in Manchester, UK**, studying:
 
-<p>
-I enjoy taking early ideas and developing them into practical, structured and well-documented digital products.
-</p>
+- Mathematics
+- Further Mathematics
+- Computer Science
 
-<p>
-My interests include software engineering, Android development, backend systems, databases and product design.
-</p>
+I am interested in the complete software-development process: understanding the problem, choosing an architecture, shaping the interface, writing and reviewing code, testing the result and explaining what should improve next.
 
-<p>
-I want my work to demonstrate more than a collection of technical tools. It should show how I understand a problem, make decisions, design a system, build a solution and improve it over time.
-</p>
+My work currently covers:
+
+- Full-stack and frontend web development
+- Native Android development
+- Databases and persistent storage
+- Defensive cybersecurity
+- Application testing and automation
+- Product and interface design
+- AI-assisted development with human review
+
+I use AI tools where they improve productivity, but generated work still has to be understood, challenged, corrected and tested.
 
 </td>
 <td width="38%" valign="top">
 
-<h3>Current Snapshot</h3>
+### Current Snapshot
 
 ```text
-MAIN PROJECT
+LOCATION
+Manchester, United Kingdom
+
+MAIN BUILD
 Clario
 
-PRIMARY FOCUS
-Java + Android
+LIVE PRODUCT
+Apprentiq
 
-DEVELOPING
-Backend systems
+PRIMARY LANGUAGES
+Java · JavaScript · TypeScript · Python
 
-IMPROVING
-Architecture + Git
-
-LOCATION
-Manchester, UK
+CURRENT DIRECTION
+Software Engineering
 
 APPROACH
-Clear · Practical · Iterative
+Problem → Evidence → Product
+
+STATUS
+Open to opportunities
 ```
 
 </td>
   </tr>
 </table>
 
-### Currently studying
-
-<p>
-  <img
-    src="https://img.shields.io/badge/MATHEMATICS-101820?style=for-the-badge&logo=wolframmathematica&logoColor=D6B66B"
-    alt="Mathematics"
-  />
-  <img
-    src="https://img.shields.io/badge/FURTHER_MATHEMATICS-101820?style=for-the-badge&logo=geogebra&logoColor=D6B66B"
-    alt="Further Mathematics"
-  />
-  <img
-    src="https://img.shields.io/badge/COMPUTER_SCIENCE-12383A?style=for-the-badge&logo=codeforces&logoColor=FFFFFF"
-    alt="Computer Science"
-  />
-</p>
-
 ---
 
-<!-- ====================================================== -->
-<!--                    TECHNOLOGY TOOLKIT                  -->
-<!-- ====================================================== -->
+## Selected Work
 
-## Technology Toolkit
+Five projects demonstrating mobile engineering, product development, cybersecurity, client delivery and frontend foundations.
 
-The technologies below are organised around how they contribute to a complete product.
-
-```text
-WRITE THE LOGIC
-        ↓
-BUILD THE PRODUCT
-        ↓
-STORE THE DATA
-        ↓
-MANAGE THE WORK
-```
+| # | Project | Area | Status |
+|---:|---|---|---|
+| 01 | **Clario** | Android · Student analytics | In active development |
+| 02 | **Apprentiq** | React · Career technology | Live and actively evolving |
+| 03 | **ThreatScope** | Cybersecurity · Interactive learning | Live with limited dynamic functionality |
+| 04 | **World Cut** | Client website · Responsive frontend | Live client project |
+| 05 | **NourishNest** | Frontend · Product experience | Live educational concept |
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    PROGRAMMING LANGUAGES               -->
-<!-- ====================================================== -->
-
-### 01 · Programming Languages
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark&perline=7"
-    alt="Java, Python, JavaScript, TypeScript, Dart, HTML and CSS"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=sqlite&logoColor=D6B66B"
-    alt="SQL"
-  />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-
-#### Application Logic
-
-- **Java** — Android development and object-oriented programming
-- **Python** — general programming, automation and data-related work
-- **Dart** — Flutter application development
-
-</td>
-    <td width="33%" valign="top">
-
-#### Web Development
-
-- **JavaScript** — interactive front-end functionality
-- **TypeScript** — strongly typed JavaScript development
-- **HTML** — semantic web structure
-- **CSS** — responsive layouts and visual presentation
-
-</td>
-    <td width="33%" valign="top">
-
-#### Data
-
-- **SQL** — relational data management and querying
-- **SQLite syntax** — local application databases
-- **MySQL syntax** — structured relational database development
-
-</td>
-  </tr>
-</table>
+<details open>
+<summary><strong>01 · Clario — Student Performance Analytics and Monitoring System</strong></summary>
 
 <br>
 
----
+> Turning fragmented school data into a clearer picture of student progress.
 
-<!-- ====================================================== -->
-<!--                 APPLICATION DEVELOPMENT               -->
-<!-- ====================================================== -->
+Clario is my flagship **A-Level Computer Science NEA project**. It is being developed as a substantial native Android application with separate student and teacher workflows.
 
-### 02 · Mobile and Application Development
+The application is designed to organise attendance, behaviour and attainment data into useful trends, visualisations and performance insights.
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=androidstudio,flutter,gradle&theme=dark"
-    alt="Android Studio, Flutter and Gradle"
-  />
-</p>
+**Engineering focus**
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/XML_LAYOUTS-12383A?style=for-the-badge&logo=android&logoColor=FFFFFF"
-    alt="Android XML layouts"
-  />
-</p>
+- Object-oriented domain modelling
+- Student and teacher user journeys
+- Persistent structured records
+- Attendance, behaviour and attainment tracking
+- Progress visualisation
+- Requirements traceability
+- Validation and empty-state handling
+- Stakeholder feedback and evaluation
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+**Core stack**
 
-#### Native Android Development
+`Java` · `Android Studio` · `XML` · `SQLite` · `Room` · `Gradle` · `MPAndroidChart`
 
-- **Android Studio** — primary Android development environment
-- **Java** — application logic and object-oriented structure
-- **XML layouts** — Android interface implementation
-- **Gradle** — project configuration and dependency management
+**Role:** Independent developer  
+**Period:** 2026–2027  
+**Status:** In active development
 
-</td>
-    <td width="50%" valign="top">
-
-#### Cross-Platform Development
-
-- **Flutter** — cross-platform mobile development
-- **Dart** — Flutter application logic
-- Reusable interface components
-- Mobile navigation and screen structures
-
-</td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<!-- ====================================================== -->
-<!--                    DATA AND STORAGE                    -->
-<!-- ====================================================== -->
-
-### 03 · Databases and Persistent Storage
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark"
-    alt="SQLite and MySQL"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/ROOM_DATABASE-101820?style=for-the-badge&logo=android&logoColor=D6B66B"
-    alt="Room database"
-  />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-
-#### SQLite
-
-Local relational storage for mobile and desktop applications.
-
-</td>
-    <td width="33%" align="center" valign="top">
-
-#### Room
-
-Structured Android persistence built on top of SQLite.
-
-</td>
-    <td width="33%" align="center" valign="top">
-
-#### MySQL
-
-Relational database development and structured SQL querying.
-
-</td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<!-- ====================================================== -->
-<!--                    DEVELOPMENT WORKFLOW                -->
-<!-- ====================================================== -->
-
-### 04 · Development Workflow
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio&theme=dark"
-    alt="Git, GitHub, Visual Studio Code, IntelliJ IDEA and Android Studio"
-  />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="20%" align="center" valign="top">
-
-#### Git
-
-Version control, branching and development history.
-
-</td>
-    <td width="20%" align="center" valign="top">
-
-#### GitHub
-
-Repository management, collaboration and project presentation.
-
-</td>
-    <td width="20%" align="center" valign="top">
-
-#### VS Code
-
-Python, JavaScript, TypeScript and web development.
-
-</td>
-    <td width="20%" align="center" valign="top">
-
-#### IntelliJ IDEA
-
-Java and object-oriented application development.
-
-</td>
-    <td width="20%" align="center" valign="top">
-
-#### Android Studio
-
-Android implementation, layout development and debugging.
-
-</td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Additional technical experience</strong></summary>
-
-  <br>
-
-  - GraphQL
-  - Pine Script
-  - Database querying
-  - Responsive interface development
-  - Object-oriented programming
-  - Git branching
-  - Pull requests
-  - Application navigation
-  - Interface prototyping
-  - Technical documentation
+[View the full Clario case study →](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/clario)
 
 </details>
 
 <br>
 
-> **The aim is not to display the longest technology list. The aim is to show how each tool supports a meaningful part of the development process.**
+<details open>
+<summary><strong>02 · Apprentiq — Degree Apprenticeship Planning Platform</strong></summary>
+
+<br>
+
+> One focused place to organise employer research, applications and next actions.
+
+Apprentiq is a privacy-conscious React application for discovering, researching and tracking UK degree apprenticeship opportunities.
+
+It brings employer research, application stages, deadlines, notes, document details and CV review into an account-free workflow.
+
+**Key capabilities**
+
+- Guided candidate onboarding
+- Curated employer discovery
+- Employer watchlists
+- Application pipeline and stage history
+- Deadlines, next actions and calendar views
+- Local rule-based CV review
+- JSON data import and export
+- Browser-local persistence
+- Responsive desktop and mobile interfaces
+
+**Core stack**
+
+`React 19` · `TypeScript` · `Vite` · `localStorage` · `PDF.js` · `Mammoth` · `File APIs` · `Netlify`
+
+**Role:** Independent product developer  
+**Period:** 2026–present  
+**Status:** Live and actively evolving
+
+[Live application](https://apprentiq.netlify.app/) ·
+[GitHub repository](https://github.com/shivamjambagi/Apprentiq) ·
+[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/apprentiq)
+
+</details>
+
+<br>
+
+<details open>
+<summary><strong>03 · ThreatScope — Cybersecurity Awareness Platform</strong></summary>
+
+<br>
+
+> Making defensive cybersecurity learning easier to understand through decisions and scenarios.
+
+ThreatScope is a collaborative cybersecurity project that turns defensive security concepts into interactive scenarios, decisions and feedback.
+
+The question system separates generation, validation, deduplication, caching and safe fallback behaviour so the experience can remain usable if a dynamic dependency becomes unavailable.
+
+**Key capabilities**
+
+- Scenario-based defensive learning
+- Modular question pipeline
+- Validation and deduplication
+- Cached and static fallback content
+- Supabase data integration
+- Automated GitHub Actions checks
+- Responsive interactive interface
+- Explicit defensive-only safety boundary
+
+**Core stack**
+
+`HTML5` · `CSS3` · `JavaScript Modules` · `Node.js` · `Supabase` · `GitHub Actions`
+
+**Role:** Collaborative project and AI-assisted development experiment  
+**Period:** 2026  
+**Status:** Live with temporarily limited dynamic functionality
+
+AI supported areas such as scaffolding, refactoring and debugging. Product direction, integration, safety decisions, review and testing remained human-led.
+
+[Live application](https://threatscopee.netlify.app/) ·
+[GitHub repository](https://github.com/shivamjambagi/ThreatScope) ·
+[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/threatscope)
+
+</details>
+
+<br>
+
+<details open>
+<summary><strong>04 · World Cut — Client Website</strong></summary>
+
+<br>
+
+> A focused digital presence for a Manchester barbershop.
+
+World Cut is a responsive client website designed around a real business, its identity, services and customer booking journey.
+
+The project translates client requirements into a restrained black-and-gold visual system with editorial typography, clear service information and responsive navigation.
+
+**Key capabilities**
+
+- Client-led requirements and iteration
+- Responsive service presentation
+- Strong content hierarchy
+- Consistent visual identity
+- Mobile-friendly navigation
+- Booking call-to-action
+- Accessibility and keyboard checks
+- Public production deployment
+
+**Core stack**
+
+`HTML5` · `CSS3` · `JavaScript` · `Responsive Design` · `Netlify`
+
+**Role:** Client developer  
+**Period:** 2025–2026  
+**Status:** Live client project
+
+[Live website](https://worldcut.netlify.app/) ·
+[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/world-cut)
+
+</details>
+
+<br>
+
+<details open>
+<summary><strong>05 · NourishNest — Food and Nutrition Web Experience</strong></summary>
+
+<br>
+
+> A visual product concept exploring responsive storytelling, filtering and interaction.
+
+NourishNest is an educational frontend project that established many of the responsive-design and browser-development foundations used more critically in my later work.
+
+It combines a long-form landing experience, meal discovery, filtering, subscription plans and a Stripe-integrated checkout journey.
+
+**Key capabilities**
+
+- Responsive product interface
+- Search and food filtering
+- Product and plan presentation
+- Scroll-triggered animations
+- Stripe Checkout integration
+- Mobile-friendly layouts
+- Visual storytelling
+- Public deployment
+
+**Core stack**
+
+`HTML5` · `CSS3` · `JavaScript` · `Intersection Observer` · `Stripe Checkout` · `Netlify`
+
+**Role:** Independent educational project  
+**Period:** 2025  
+**Status:** Live frontend concept
+
+[Live application](https://nourishnest.netlify.app/) ·
+[GitHub repository](https://github.com/shivamjambagi/nourishnest-webapp) ·
+[Full case study](https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/projects/nourishnest)
+
+</details>
 
 ---
 
-<!-- ====================================================== -->
-<!--                       PROJECTS                         -->
-<!-- ====================================================== -->
+## Technical Toolkit
 
-## Featured Projects
+### Languages
 
-<sub>
-Three projects representing product development, collaboration and front-end foundations.
-</sub>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,dart&theme=dark&perline=7"
+    alt="Java, Python, JavaScript, TypeScript, HTML, CSS and Dart"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=mysql&logoColor=D6B66B" alt="SQL" />
+</p>
+
+| Technology | Current use |
+|---|---|
+| **Java** | Native Android development, application logic and object-oriented design |
+| **JavaScript** | Interactive web applications, browser APIs and Node.js |
+| **TypeScript** | Typed React applications and safer data modelling |
+| **Python** | General programming, automation and problem solving |
+| **SQL** | Relational data design, storage and querying |
+| **HTML & CSS** | Semantic structure, responsive layouts and interface systems |
+| **Dart** | Flutter and cross-platform application development |
+
+### Web and Product Development
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,npm,tailwind&theme=dark&perline=6"
+    alt="React, Next.js, Vite, Node.js, npm and Tailwind CSS"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-12383A?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/RESPONSIVE_DESIGN-12383A?style=flat-square&logo=cssdesignawards&logoColor=FFFFFF" alt="Responsive design" />
+  <img src="https://img.shields.io/badge/BROWSER_APIs-12383A?style=flat-square&logo=googlechrome&logoColor=FFFFFF" alt="Browser APIs" />
+  <img src="https://img.shields.io/badge/STRIPE-635BFF?style=flat-square&logo=stripe&logoColor=FFFFFF" alt="Stripe" />
+</p>
+
+- React and component-driven interfaces
+- Next.js and modern portfolio development
+- Vite-based frontend applications
+- Node.js and lightweight backend services
+- REST API integration
+- Responsive and accessible interface development
+- Browser APIs including `localStorage`, File, Blob and Intersection Observer
+- Stripe Checkout integration
+
+### Mobile Development
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,gradle&theme=dark"
+    alt="Android Studio, Flutter, Dart and Gradle"
+  />
+</p>
+
+- Native Android development with Java
+- Android XML layouts
+- Object-oriented application architecture
+- SQLite and Room persistence
+- Gradle dependency and build management
+- MPAndroidChart data visualisation
+- Flutter and Dart foundations
+
+### Data, Storage and Integrations
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=sqlite,mysql,supabase&theme=dark"
+    alt="SQLite, MySQL and Supabase"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROOM_DATABASE-101820?style=flat-square&logo=android&logoColor=D6B66B" alt="Room database" />
+  <img src="https://img.shields.io/badge/LOCAL_STORAGE-101820?style=flat-square&logo=googlechrome&logoColor=D6B66B" alt="Browser local storage" />
+  <img src="https://img.shields.io/badge/PDF.js-101820?style=flat-square&logo=adobeacrobatreader&logoColor=D6B66B" alt="PDF.js" />
+  <img src="https://img.shields.io/badge/MAMMOTH-101820?style=flat-square&logo=microsoftword&logoColor=D6B66B" alt="Mammoth" />
+</p>
+
+### Testing, Workflow and Delivery
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,npm,netlify,cloudflare&theme=dark&perline=8"
+    alt="Git, GitHub, GitHub Actions, Visual Studio Code, IntelliJ IDEA, npm, Netlify and Cloudflare"
+  />
+</p>
+
+- Git branching and version control
+- Pull requests and collaborative review
+- GitHub Actions validation
+- TypeScript compiler checks
+- Node.js test runner
+- Playwright browser automation
+- Karate API testing
+- JUnit testing
+- Manual regression testing
+- Responsive and cross-browser checks
+- Netlify and Cloudflare delivery workflows
+
+<details>
+<summary><strong>Additional technical experience</strong></summary>
 
 <br>
-<br>
+
+`GraphQL` · `Pine Script` · `Drizzle ORM` · `Tailwind CSS` · `Lucide React` · `AI-assisted development` · `Technical documentation` · `Interface prototyping` · `Application architecture`
+
+</details>
+
+---
+
+## How I Build
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>01</h3>
+      <strong>Understand</strong>
+      <p>Identify the user, context and real problem.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>02</h3>
+      <strong>Design</strong>
+      <p>Plan the requirements, data, interface and architecture.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>03</h3>
+      <strong>Build & Test</strong>
+      <p>Implement in stages and verify the important behaviour.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>04</h3>
+      <strong>Reflect</strong>
+      <p>Document the evidence and improve the next version.</p>
+    </td>
+  </tr>
+</table>
+
+```text
+Problem
+   ↓
+Requirements
+   ↓
+Research and design
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Reflection and iteration
+```
+
+---
+
+## Industry Experience
+
+| Organisation | Experience |
+|---|---|
+| **Barclays Technology** | Technology work experience with exposure to solution architecture, backend development, frontend development, leadership and professional engineering workflows |
+| **Network Rail × PwC** | Cybersecurity, digital transformation and Agile project-delivery experience; led the winning impersonation-scam case-study team |
+| **PwC** | Technology work experience focused on multidisciplinary teams, business problems and practical technical communication |
+| **University of Manchester** | Advanced Mathematics programme delivered by university staff and PhD students |
+| **IRIS Software** | Confirmed Year 13 software placement focused on professional software development and collaboration |
+
+---
+
+## Credentials and Independent Learning
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
 
-<h3>01 · Clario</h3>
+### IBM SkillsBuild
 
-<strong>Student analytics platform</strong>
+**Cybersecurity: On the Offense**
 
-<p>
-A student performance, attendance and behaviour analytics system designed for students and teachers.
-</p>
+Issued April 2026
 
-<strong>What I am developing</strong>
-
-<ul>
-  <li>Requirements analysis</li>
-  <li>Product and interface design</li>
-  <li>Java and Android development</li>
-  <li>Object-oriented programming</li>
-  <li>Database planning</li>
-  <li>Persistent storage</li>
-  <li>Data visualisation</li>
-  <li>Project evaluation</li>
-</ul>
-
-<strong>Current stage</strong>
-
-<p>
-<code>Design and technical planning</code>
-</p>
-
-<strong>Technology</strong>
-
-<p>
-<code>Java</code>
-<code>Android Studio</code>
-<code>XML</code>
-<code>SQLite</code>
-<code>Room</code>
-</p>
+Offensive-security concepts used to improve understanding of attacker behaviour and defensive thinking.
 
 </td>
-
 <td width="33%" valign="top">
 
-<h3>02 · ThreatScope</h3>
+### IBM SkillsBuild
 
-<strong>Collaborative cybersecurity project</strong>
+**Cybersecurity Fundamentals**
 
-<p>
-An interactive cybersecurity-awareness project that presents attack concepts through practical scenarios.
-</p>
+Issued April 2026
 
-<p>
-I <strong>co-created the original project with my project partner</strong>. The main repository is hosted on his GitHub account, while the repository on my profile is a fork of the project we developed together.
-</p>
-
-<strong>What I developed</strong>
-
-<ul>
-  <li>Collaborative development</li>
-  <li>Front-end functionality</li>
-  <li>Interactive learning design</li>
-  <li>Cybersecurity communication</li>
-  <li>Shared code review</li>
-  <li>Feature planning</li>
-</ul>
-
-<strong>Current stage</strong>
-
-<p>
-<code>Collaborative project · Improvements planned</code>
-</p>
-
-<strong>Technology</strong>
-
-<p>
-<code>JavaScript</code>
-<code>Frontend Development</code>
-<code>Cybersecurity Concepts</code>
-</p>
-
-<a href="https://github.com/shivamjambagi/ThreatScope">
-  <strong>View ThreatScope →</strong>
-</a>
+Security awareness, risk, threat prevention and protecting information and systems.
 
 </td>
-
 <td width="33%" valign="top">
 
-<h3>03 · NourishNest</h3>
+### Anthropic
 
-<strong>Front-end web project</strong>
+**Claude Code in Action**
 
-<p>
-A food-focused website created to strengthen responsive design, visual hierarchy and front-end development fundamentals.
-</p>
+Issued August 2026
 
-<strong>What I developed</strong>
-
-<ul>
-  <li>Semantic page structure</li>
-  <li>Responsive layouts</li>
-  <li>Navigation</li>
-  <li>Visual hierarchy</li>
-  <li>Front-end interaction</li>
-  <li>Consistent styling</li>
-</ul>
-
-<strong>Current stage</strong>
-
-<p>
-<code>Public front-end project</code>
-</p>
-
-<strong>Technology</strong>
-
-<p>
-<code>HTML</code>
-<code>CSS</code>
-<code>JavaScript</code>
-</p>
-
-<a href="https://github.com/shivamjambagi/nourishnest-webapp">
-  <strong>View NourishNest →</strong>
-</a>
+Using Claude Code to understand codebases, improve code, debug issues and support software-development workflows.
 
 </td>
   </tr>
@@ -529,200 +547,106 @@ A food-focused website created to strengthen responsive design, visual hierarchy
 
 ---
 
-<!-- ====================================================== -->
-<!--                    DEVELOPMENT METHOD                  -->
-<!-- ====================================================== -->
+## Achievements
 
-## How I Work
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-
-<h3>01</h3>
-
-<strong>Understand</strong>
-
-<p>
-Start with the user, context and real problem.
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>02</h3>
-
-<strong>Design</strong>
-
-<p>
-Plan the interface, data and application structure.
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>03</h3>
-
-<strong>Build</strong>
-
-<p>
-Implement the solution in manageable stages.
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>04</h3>
-
-<strong>Improve</strong>
-
-<p>
-Review the result, gather evidence and strengthen the next version.
-</p>
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-```text
-Useful software begins with a real problem.
-
-Strong software connects the user,
-the structure and the implementation.
-
-Good project work explains the decisions,
-not only the final result.
-```
+- **Winning Project Lead** — PwC Cybersecurity Case Study Challenge
+- **Winner** — IT & Computing Enrichment Presentation Competition
+- **Outstanding Achievement in Science**
+- **UKMT Mathematics Challenge** — Bronze Plus
+- **MEI Ritangle** participant
+- **Royal Northern College of Music scholarship** — Guitar Ensemble
 
 ---
 
-<!-- ====================================================== -->
-<!--                     CURRENT FOCUS                      -->
-<!-- ====================================================== -->
-
-## Current Focus
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>Engineering</h3>
-
-<ul>
-  <li>Strengthening Java fundamentals</li>
-  <li>Improving object-oriented class design</li>
-  <li>Developing Android application skills</li>
-  <li>Learning application architecture</li>
-  <li>Improving validation and error handling</li>
-  <li>Understanding persistent storage</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Project Quality</h3>
-
-<ul>
-  <li>Writing clearer documentation</li>
-  <li>Creating measurable requirements</li>
-  <li>Improving Git workflows</li>
-  <li>Organising repositories professionally</li>
-  <li>Explaining technical decisions</li>
-  <li>Presenting project progress accurately</li>
-</ul>
-
-</td>
-  </tr>
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                       PRINCIPLES                       -->
-<!-- ====================================================== -->
-
-## Principles
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-
-<h3>Clarity</h3>
-
-<p>
-Code, interfaces and documentation should be understandable.
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>Purpose</h3>
-
-<p>
-Features should exist because they solve a meaningful problem.
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>Evidence</h3>
-
-<p>
-Claims should be supported by implementation and documentation.
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<h3>Iteration</h3>
-
-<p>
-Every version should improve on the one before it.
-</p>
-
-</td>
-  </tr>
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                         FOOTER                         -->
-<!-- ====================================================== -->
+## GitHub Activity
 
 <div align="center">
 
-## Build with purpose. Document the process. Improve with intent.
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=shivamjambagi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6B66B&text_color=C9D1D9&icon_color=0F8B8D&ring_color=C29A55"
+  alt="Shivam's GitHub statistics"
+/>
 
-<sub>
-Developing through complete projects, structured learning and consistent iteration.
-</sub>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjambagi&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6B66B&text_color=C9D1D9"
+  alt="Shivam's most used languages"
+/>
 
 <br>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=shivamjambagi&hide_border=true&background=0D1117&ring=C29A55&fire=D6B66B&currStreakLabel=D6B66B&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  alt="Shivam's GitHub contribution streak"
+/>
+
 <br>
 
-<a href="https://github.com/shivamjambagi?tab=repositories">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shivamjambagi&bg_color=0D1117&color=C9D1D9&line=D6B66B&point=FFFFFF&area=true&area_color=0F4C4C&hide_border=true"
+  alt="Shivam's contribution activity graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## The profile is the overview. The portfolio contains the evidence.
+
+Explore detailed case studies, engineering decisions, architecture, testing, project screenshots, experience, credentials and reflections.
+
+<br>
+
+<a href="https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site">
   <img
-    src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-12383A?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="Explore all repositories"
+    src="https://img.shields.io/badge/EXPLORE_THE_FULL_PORTFOLIO-C29A55?style=for-the-badge&logo=googlechrome&logoColor=05080C"
+    alt="Explore Shivam Jambagi's portfolio"
   />
 </a>
 
 <br>
 <br>
 
+<a href="mailto:shivam.v.jambagi@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL_ME-12383A?style=flat-square&logo=gmail&logoColor=FFFFFF"
+    alt="Email Shivam"
+  />
+</a>
+<a href="https://www.linkedin.com/in/shivamvjambagi">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF"
+    alt="Shivam on LinkedIn"
+  />
+</a>
+<a href="https://github.com/shivamjambagi">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=FFFFFF"
+    alt="Shivam on GitHub"
+  />
+</a>
+<a href="https://shivam-jambagi-portfolio.shivam-v-jambagi.chatgpt.site/Shivam-Jambagi-CV.docx">
+  <img
+    src="https://img.shields.io/badge/DOWNLOAD_CV-101820?style=flat-square&logo=microsoftword&logoColor=D6B66B"
+    alt="Download Shivam's CV"
+  />
+</a>
+
+<br>
+<br>
+
+### Build with purpose. Prove it with evidence. Improve through iteration.
+
+<sub>Manchester, United Kingdom · Open to software-engineering opportunities</sub>
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:C29A55,35:0F4C4C,70:0B1F24,100:05080C&height=105&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:C29A55,35:0F4C4C,70:0B1F24,100:05080C&height=110&section=footer"
   alt="Profile footer"
 />
 
