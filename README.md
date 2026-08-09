@@ -131,15 +131,16 @@ Open to opportunities
 
 ## Selected Work
 
-Five projects demonstrating mobile engineering, product development, cybersecurity, client delivery and frontend foundations.
+Six projects demonstrating mobile engineering, product development, visual systems, cybersecurity, client delivery and frontend foundations.
 
 | # | Project | Area | Status |
 |---:|---|---|---|
 | 01 | **Clario** | Android · Student analytics | In active development |
-| 02 | **Apprentiq** | React · Career technology | Live and actively evolving |
-| 03 | **ThreatScope** | Cybersecurity · Interactive learning | Live with limited dynamic functionality |
-| 04 | **World Cut** | Client website · Responsive frontend | Live client project |
-| 05 | **NourishNest** | Frontend · Product experience | Live educational concept |
+| 02 | **Circa** | Visual mapping · Relationship intelligence | In active development |
+| 03 | **Apprentiq** | React · Career technology | Live and actively evolving |
+| 04 | **ThreatScope** | Cybersecurity · Interactive learning | Live with limited dynamic functionality |
+| 05 | **World Cut** | Client website · Responsive frontend | Live client project |
+| 06 | **NourishNest** | Frontend · Product experience | Live educational concept |
 
 <br>
 
@@ -180,7 +181,43 @@ The application is designed to organise attendance, behaviour and attainment dat
 <br>
 
 <details open>
-<summary><strong>02 · Apprentiq — Degree Apprenticeship Planning Platform</strong></summary>
+<summary><strong>02 · Circa — Visual Relationship Mapping Workspace</strong></summary>
+
+<br>
+
+> Turning complex people and organisation networks into diagrams that are easier to understand.
+
+Circa is an interactive visual workspace for mapping people, groups and relationships across personal and organisational networks.
+
+It is being developed around direct canvas interaction, with planned text and voice tools for generating, editing and exploring diagrams more quickly.
+
+**Key capabilities**
+
+- Visual people and relationship mapping
+- Draggable and resizable canvas elements
+- Groups and organisation structures
+- Custom relationships and colours
+- Profile and contact information
+- Prompt-to-diagram generation
+- Voice-to-diagram workflow
+- Future network querying and path exploration
+
+**Current focus**
+
+`Interactive Canvas` · `Graph Relationships` · `Prompt-to-Diagram` · `Voice-to-Diagram`
+
+**Role:** Independent product developer  
+**Period:** 2026–present  
+**Status:** In active development
+
+[GitHub repository](https://github.com/shivamjambagi/circa)
+
+</details>
+
+<br>
+
+<details open>
+<summary><strong>03 · Apprentiq — Degree Apprenticeship Planning Platform</strong></summary>
 
 <br>
 
@@ -219,7 +256,7 @@ It brings employer research, application stages, deadlines, notes, document deta
 <br>
 
 <details open>
-<summary><strong>03 · ThreatScope — Cybersecurity Awareness Platform</strong></summary>
+<summary><strong>04 · ThreatScope — Cybersecurity Awareness Platform</strong></summary>
 
 <br>
 
@@ -259,7 +296,7 @@ AI supported areas such as scaffolding, refactoring and debugging. Product direc
 <br>
 
 <details open>
-<summary><strong>04 · World Cut — Client Website</strong></summary>
+<summary><strong>05 · World Cut — Client Website</strong></summary>
 
 <br>
 
@@ -296,7 +333,7 @@ The project translates client requirements into a restrained black-and-gold visu
 <br>
 
 <details open>
-<summary><strong>05 · NourishNest — Food and Nutrition Web Experience</strong></summary>
+<summary><strong>06 · NourishNest — Food and Nutrition Web Experience</strong></summary>
 
 <br>
 
