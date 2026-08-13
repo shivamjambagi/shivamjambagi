@@ -22,6 +22,15 @@
     src="https://img.shields.io/badge/LOCATION-MANCHESTER%2C_UK-101820?style=flat-square&logo=googlemaps&logoColor=D6B66B"
     alt="Manchester, United Kingdom"
   />
+  <img
+    src="https://img.shields.io/badge/CURRENT_BUILDS-CLARIO_%2B_CIRCA-12383A?style=flat-square&logo=github&logoColor=FFFFFF"
+    alt="Currently building Clario and Circa"
+  />
+  <img
+    src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-101820?style=flat-square&logo=githubsponsors&logoColor=D6B66B"
+    alt="Open to opportunities"
+  />
+</p>
 
 ### Developer · Problem solver · Product builder
 
@@ -95,11 +104,11 @@ I use AI tools where they improve productivity, but generated work still has to 
 LOCATION
 Manchester, United Kingdom
 
-MAIN BUILD
-Clario
+MAIN BUILDS
+Clario · Circa
 
-LIVE PRODUCT
-Apprentiq
+LIVE PRODUCTS
+Circa (beta) · Apprentiq
 
 PRIMARY LANGUAGES
 Java · JavaScript · TypeScript · Python
@@ -127,7 +136,7 @@ Six projects demonstrating mobile engineering, product development, visual syste
 | # | Project | Area | Status |
 |---:|---|---|---|
 | 01 | **Clario** | Android · Student analytics | In active development |
-| 02 | **Circa** | Visual mapping · Relationship intelligence | In active development |
+| 02 | **Circa** | People mapping · Relationship systems | Live beta · active development |
 | 03 | **Apprentiq** | React · Career technology | Live and actively evolving |
 | 04 | **ThreatScope** | Cybersecurity · Interactive learning | Live with limited dynamic functionality |
 | 05 | **World Cut** | Client website · Responsive frontend | Live client project |
@@ -172,36 +181,42 @@ The application is designed to organise attendance, behaviour and attainment dat
 <br>
 
 <details open>
-<summary><strong>02 · Circa — Visual Relationship Mapping Workspace</strong></summary>
+<summary><strong>02 · Circa — Visual System for Understanding People and Relationships</strong></summary>
 
 <br>
 
-> Turning complex people and organisation networks into diagrams that are easier to understand.
+> Map your people.
 
-Circa is an interactive visual workspace for mapping people, groups and relationships across personal and organisational networks.
+Circa is a visual system for understanding how people connect across personal life, communities and professional networks.
 
-It is being developed around direct canvas interaction, with planned text and voice tools for generating, editing and exploring diagrams more quickly.
+Rather than acting as a CRM, ranking system or generic diagramming tool, Circa focuses on people, relationships, structure and context. It is made for understanding, never ranking.
 
-**Key capabilities**
+**Three connected experiences**
 
-- Visual people and relationship mapping
-- Draggable and resizable canvas elements
-- Groups and organisation structures
-- Custom relationships and colours
-- Profile and contact information
-- Prompt-to-diagram generation
-- Voice-to-diagram workflow
-- Future network querying and path exploration
+- **Personal** — local-first maps for organising people, groups, relationships, notes and important context without requiring an account
+- **Network** — professional relationship maps built from user-provided information, with explainable connection and pathway discovery
+- **Community** — shared spaces for directories, events, collections, reminders and suggestions, with role-based access and optional WhatsApp integration planned
+
+**How Circa works**
+
+- Build and edit relationships directly on an interactive visual canvas
+- Use **Compose** to describe additions or changes in natural language
+- Review proposed graph changes before anything is applied
+- Use **Ask** to explore people, connections and possible pathways
+- Keep deterministic graph logic as the source of truth while AI supports interpretation
+
+Personal maps remain local-first and user-controlled. Shared Network and Community capabilities are being developed around privacy, consent and appropriate access controls.
 
 **Current focus**
 
-`Interactive Canvas` · `Graph Relationships` · `Prompt-to-Diagram` · `Voice-to-Diagram`
+`Relationship Graphs` · `Local-first Persistence` · `Compose and Ask` · `Path Discovery` · `Privacy and Consent`
 
 **Role:** Independent product developer  
 **Period:** 2026–present  
-**Status:** In active development
+**Status:** Live beta and in active development
 
-[GitHub repository](https://github.com/shivamjambagi/circa)
+[Live beta](https://circaa.netlify.app/) ·
+[GitHub repository](https://github.com/shivamjambagi/Circa)
 
 </details>
 
@@ -679,4 +694,3 @@ Explore detailed case studies, engineering decisions, architecture, testing, pro
 />
 
 </div>
-
