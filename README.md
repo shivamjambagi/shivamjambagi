@@ -22,15 +22,6 @@
     src="https://img.shields.io/badge/LOCATION-MANCHESTER%2C_UK-101820?style=flat-square&logo=googlemaps&logoColor=D6B66B"
     alt="Manchester, United Kingdom"
   />
-  <img
-    src="https://img.shields.io/badge/CURRENT_BUILD-CLARIO-12383A?style=flat-square&logo=android&logoColor=FFFFFF"
-    alt="Currently building Clario"
-  />
-  <img
-    src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-101820?style=flat-square&logo=githubsponsors&logoColor=D6B66B"
-    alt="Open to opportunities"
-  />
-</p>
 
 ### Developer · Problem solver · Product builder
 
