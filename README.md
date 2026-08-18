@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  width="100"
+  width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:05080C,40:0B1F24,72:0F4C4C,100:C29A55&height=230&section=header&text=Shivam%20Jambagi&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Computer%20Science%20Student&descSize=17&descColor=E2E8E8&descAlignY=58&animation=fadeIn"
   alt="Shivam Jambagi profile banner"
 />
