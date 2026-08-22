@@ -659,7 +659,7 @@ Explore detailed case studies, engineering decisions, architecture, testing, pro
     alt="Shivam on GitHub"
   />
 </a>
-<a href="https://shivam-jambagi-portfolio.netlify.app/Shivam-Jambagi-CV.docx">
+<a href="https://raw.githubusercontent.com/shivamjambagi/shivamjambagi/main/Shivam-Jambagi-CV.docx">
   <img
     src="https://img.shields.io/badge/DOWNLOAD_CV-101820?style=flat-square&logo=microsoftword&logoColor=D6B66B"
     alt="Download Shivam's CV"
