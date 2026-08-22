@@ -601,27 +601,7 @@ Using Claude Code to understand codebases, improve code, debug issues and suppor
 
 ---
 
-## GitHub Contributions
 
-<div align="center">
-
-<a href="https://github.com/shivamjambagi">
-  <img
-    width="100%"
-    src="./profile-3d-contrib/profile-night-green.svg"
-    alt="Shivam Jambagi's 3D GitHub contribution graph"
-  />
-</a>
-
-<br>
-
-<sub>
-A visual record of my GitHub contribution activity, including commits and project development.
-</sub>
-
-</div>
-
----
 
 <div align="center">
 
