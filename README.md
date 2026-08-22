@@ -601,37 +601,23 @@ Using Claude Code to understand codebases, improve code, debug issues and suppor
 
 ---
 
-## GitHub Activity
+## GitHub Contributions
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=shivamjambagi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6B66B&text_color=C9D1D9&icon_color=0F8B8D&ring_color=C29A55"
-  alt="Shivam's GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjambagi&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6B66B&text_color=C9D1D9"
-  alt="Shivam's most used languages"
-/>
+<a href="https://github.com/shivamjambagi">
+  <img
+    width="100%"
+    src="./profile-3d-contrib/profile-night-green.svg"
+    alt="Shivam Jambagi's 3D GitHub contribution graph"
+  />
+</a>
 
 <br>
 
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=shivamjambagi&hide_border=true&background=0D1117&ring=C29A55&fire=D6B66B&currStreakLabel=D6B66B&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-  alt="Shivam's GitHub contribution streak"
-/>
-
-<br>
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shivamjambagi&bg_color=0D1117&color=C9D1D9&line=D6B66B&point=FFFFFF&area=true&area_color=0F4C4C&hide_border=true"
-  alt="Shivam's contribution activity graph"
-/>
+<sub>
+A visual record of my GitHub contribution activity, including commits and project development.
+</sub>
 
 </div>
 
