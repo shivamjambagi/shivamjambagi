@@ -7,10 +7,6 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=D6B66B&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Building+software+across+web%2C+Android+and+cybersecurity;Turning+useful+problems+into+working+products;Designing%2C+building%2C+testing+and+documenting;Using+AI+to+accelerate+work%2C+not+replace+judgement"
-  alt="Animated introduction"
-/>
-
 <br>
 
 <p>
